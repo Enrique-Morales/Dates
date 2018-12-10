@@ -44,8 +44,8 @@ echo "Ejemplo 4: ".strftime("%H:%M:%S")."<br><br>";
 
 echo "Ejemplo 5: ".strftime("%I:%M:%S")."<br><br>";
 
-echo "Ejemplo 5: ".strftime("%c")."<br><br>";
+echo "Ejemplo 6: ".strftime("%c")."<br><br>";
 
-echo "Ejemplo 6: ".strftime("%x")."<br><br>";
+echo "Ejemplo 7: ".strftime("%x")."<br><br>";
 
-echo "Ejemplo 7: ".strftime("%X")."<br><br>";
+echo "Ejemplo 8: ".strftime("%X")."<br><br>";
